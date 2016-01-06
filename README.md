@@ -24,8 +24,8 @@ The program has 5 arguments to pass in, all of these are required
 1. Path to left image
 2. Path to right image
 3. Size of target region to use for matching in the right image
-..* e.g. pass in 20 and a window will be centred on each pixel in the target region
+⋅⋅* e.g. pass in 20 and a window will be centred on each pixel in the target region
 3. Size of window for matching, i.e. the source window in the left image
-..* e.g. pass in 12 to use a 12 by 12 window
+⋅⋅* e.g. pass in 12 to use a 12 by 12 window
 3. Output file path
 
